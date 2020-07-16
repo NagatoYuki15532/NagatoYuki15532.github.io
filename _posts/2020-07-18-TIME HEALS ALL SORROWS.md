@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:    这一年的我与京阿尼              # 标题 
-subtitle:  Time heals all sorrows. #副标题
+title:这一年的我与京阿尼              # 标题 
+subtitle:Time heals all sorrows. #副标题
 date:     2020-7-18             # 时间
 author:     马文                      # 作者
 header-img:75569089_p0_master1200.jpg         #这篇文章标题背景图片
@@ -10,7 +10,7 @@ tags:                               #标签
     - 生活
     - 动画
 ---
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5299097&auto=1&height=66"></iframe>
+
 *时隔一年，终于能静静地看下去京都的动画了。*    
 花了半个月看完了轻音少女一二季，留了个剧场版，有快乐，有忧郁。  
 >“我相信这不是我一个人的经历：傍晚时分，你坐在屋檐下，看着天慢慢地黑下去，心里寂寞而凄凉，感到自己的生命被剥夺了。当时我是个年轻人，但我害怕这样生活下去，衰老下去。在我看来，这是比死亡更可怕的事。”
